@@ -1,4 +1,8 @@
-# Homework1
+# Homework 1
+
+Kevin Chau
+CPSC-449
+kchau1205@csu.fullerton.edu
 
 ## PUT endpoint (update book)
 Before Put, Book id 9
